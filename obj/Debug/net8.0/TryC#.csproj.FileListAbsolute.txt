@@ -1,0 +1,14 @@
+/Users/eugenia/Documents/TryC#/TryC#/bin/Debug/net8.0/TryC#
+/Users/eugenia/Documents/TryC#/TryC#/bin/Debug/net8.0/TryC#.deps.json
+/Users/eugenia/Documents/TryC#/TryC#/bin/Debug/net8.0/TryC#.runtimeconfig.json
+/Users/eugenia/Documents/TryC#/TryC#/bin/Debug/net8.0/TryC#.dll
+/Users/eugenia/Documents/TryC#/TryC#/bin/Debug/net8.0/TryC#.pdb
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.AssemblyInfoInputs.cache
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.AssemblyInfo.cs
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.csproj.CoreCompileInputs.cache
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.dll
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/refint/TryC#.dll
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.pdb
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/TryC#.genruntimeconfig.cache
+/Users/eugenia/Documents/TryC#/TryC#/obj/Debug/net8.0/ref/TryC#.dll
